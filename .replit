@@ -6,3 +6,4 @@ run = "python 3-2.py"
 # 깃허브 연동방법
 # git add .
 # git commit - m "commit!!"
+# git push origin master
